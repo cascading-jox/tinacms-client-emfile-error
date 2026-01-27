@@ -15,7 +15,7 @@
         "@tailwindcss/forms": "^0.5.7",
         "@tinacms/auth": "^1.0.4",
         "js-cookie": "^3.0.5",
-        "next": "14.2.3",
+        "next": "15.5.10",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
         "react-tooltip": "^5.26.4",
